@@ -43,7 +43,7 @@ nav ul li a {
     background-image: url('hero-image.jpg');
     background-size: cover;
     background-position: center;
-    color: #f30000;
+    color: #ffffff;
     text-align: center;
     padding: 100px 0;
     position: relative;
@@ -51,6 +51,7 @@ nav ul li a {
 
 .hero-content h1 {
     color:#333;
+    background-color: aquamarine;
     font-size: 48px;
     margin-bottom: 20px;
 }
