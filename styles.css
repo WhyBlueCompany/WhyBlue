@@ -19,7 +19,9 @@ header {
 
 header .logo {
     font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+    text-align: start;
     color: #1e90ff;
 }
 
@@ -41,10 +43,10 @@ nav ul li a {
 
 /* Sección Principal */
 .hero {
-    background-image: url('hero-image.jpg');
     background-size: cover;
     background-position: center;
-    background-color: #31d8fa;
+    font-family: 'Brush Script MT', cursive;
+    background-color: #b0e3ed;
     color: #ffffff;
     text-align: center;
     padding: 100px 0;
@@ -52,9 +54,10 @@ nav ul li a {
 }
 
 .hero-content h1 {
-    color:#333;
-    background-color: #ddd;
-    font-size: 48px;
+    color:#f5cf28;
+    text-decoration: underline black;
+    background-color: #b0e3ed;
+    font-size: 60px;
     margin-bottom: 20px;
 }
 
